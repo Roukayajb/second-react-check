@@ -1,0 +1,15 @@
+.title{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+text-align: center ;
+text-decoration: underline;
+margin-bottom: 10%;
+}
+.red{
+color: red;
+}
+.styleimg{
+    margin-left: auto;margin-right: auto;
+    display: block;
+    margin-bottom: 5%;
+}
